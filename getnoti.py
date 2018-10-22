@@ -6,7 +6,7 @@ import time
 import os
 import noti_parser
 
-url = "http://elogbook.cern.ch/eLogbook/eLogbook.jsp?lgbk=60"
+url = "http://elogbook.cern.ch/eLogbook/eLogbook.jsp?shiftId=1104285"
 # To get a telegram bot token, check this url: https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token
 chat_id = ""
 token = ""
